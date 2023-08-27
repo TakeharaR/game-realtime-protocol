@@ -171,6 +171,8 @@ gRPC(HTTP/2)により以下のメリットを得た事例。
     - Diarkis
         - RUDP まで
 - ★ サーバ側のマネージドサービスで QUIC 終端してくれるロードバランサがまだない、という問題もある
+- ★ UE の RPC はどちらかというと RUDP 的 
+    - (Reliableオプションがある https://docs.unrealengine.com/4.27/ja/InteractiveExperiences/Networking/Actors/RPCs/
 
 
 ### 疎通性
