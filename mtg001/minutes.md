@@ -70,7 +70,7 @@
 
 ## ゲーム系インフラエンジニア目線のIETFにおけるQUIC, HTTP/3動向。
 
-[ゲーム目線のインフラエンジニア IETFにおけるQUIC, HTTP3動向](/quic_and_h3_at_ietf.pdf)
+[ゲーム目線のインフラエンジニア IETFにおけるQUIC, HTTP3動向](/mtg001/quic_and_h3_at_ietf.pdf)
 
 ### 議論:ゲームのリアルタイム通信に WebTransport は必要か？
 
@@ -105,7 +105,7 @@
 
 ## 暗号化まわりとCCWGについての報告
 
-[暗号化まわりとCCWGについての報告.pdf](/encryption_and_ccwg_at_ietf118.pdf)
+[暗号化まわりとCCWGについての報告.pdf](/mtg001/encryption_and_ccwg_at_ietf118.pdf)
 
 ### 議論:Areion について
 
